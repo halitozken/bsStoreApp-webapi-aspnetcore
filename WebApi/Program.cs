@@ -3,7 +3,7 @@ using WebApi.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddControllers().AddNewtonsoftJson();
+builder.Services.AddControllers().AddNewtonsoftJson(); //HttpPatch
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
