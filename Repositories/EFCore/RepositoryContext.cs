@@ -12,7 +12,7 @@ namespace Repositories.EFCore
 {
     public class RepositoryContext : DbContext
     {
-        // Veritabanı bağlantısını sağlamak için DbContext extend edilir.
+        // Veritabanı bağlantısını sağlamak için DbContext
         public RepositoryContext(DbContextOptions options) : base(options) { }
         public DbSet<Book> Books { get; set; }
 

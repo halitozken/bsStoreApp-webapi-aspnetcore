@@ -1,0 +1,17 @@
+2023-05-31 21:15:40.0773 Info Message Template Auto Format enabled
+2023-05-31 21:15:40.1273 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-31 21:15:40.1384 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Halit\Desktop\Works\BackEnd\DotNet\bsStoreApp\WebApi\nlog.config
+2023-05-31 22:31:25.3739 Info Message Template Auto Format enabled
+2023-05-31 22:31:25.4171 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-31 22:31:25.4171 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Halit\Desktop\Works\BackEnd\DotNet\bsStoreApp\WebApi\nlog.config
+2023-05-31 22:32:25.8806 Info Message Template Auto Format enabled
+2023-05-31 22:32:25.9124 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-31 22:32:25.9219 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Halit\Desktop\Works\BackEnd\DotNet\bsStoreApp\WebApi\nlog.config
+2023-06-05 13:59:14.7466 Info Message Template Auto Format enabled
+2023-06-05 13:59:14.8014 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-06-05 13:59:14.8134 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Halit\Desktop\Works\BackEnd\DotNet\bsStoreApp\WebApi\nlog.config
+2023-06-05 14:00:31.2088 Info Message Template Auto Format enabled
+2023-06-05 14:00:31.2504 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-06-05 14:00:31.2504 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\Halit\Desktop\Works\BackEnd\DotNet\bsStoreApp\WebApi\nlog.config
+2023-06-05 14:01:18.9187 Info AppDomain Shutting down. LogFactory closing...
+2023-06-05 14:01:18.9187 Info LogFactory has been closed.
